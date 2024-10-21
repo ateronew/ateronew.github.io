@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ateronew.github.io/ateronew.txt.gz
+Sitemap: https://ateronew.github.io/app/ateronew.txt.gz
+Sitemap: https://ateronew.github.io/assets/ateronew.txt.gz
+Sitemap: https://ateronew.github.io/css/ateronew.txt.gz
+Sitemap: https://ateronew.github.io/includes/ateronew.txt.gz
+Sitemap: https://ateronew.github.io/item/ateronew.txt.gz
+Sitemap: https://ateronew.github.io/src/ateronew.txt.gz
